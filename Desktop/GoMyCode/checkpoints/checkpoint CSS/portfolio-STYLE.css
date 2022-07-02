@@ -1,0 +1,62 @@
+
+
+*{
+    font-family: roboto;
+}
+
+li{
+    padding: 0 30px;
+} 
+
+.title{
+    color: rgb(88, 194, 194);
+    text-align: left;
+    margin-left: 100px;
+}
+
+.title h3{
+    font-style: italic;
+    font-size: 20px;
+}
+
+h2{
+  
+        color: rgb(236, 49, 205);
+        font-family: roboto;
+        text-align: center;
+        text-decoration: underline;
+}
+
+.video_from_youtube{
+    text-align: center;
+}
+
+.nav-bar{
+    display: inline-block;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+form{
+    text-align: center;
+}
+
+.sing_in{
+    margin-left: 20px;
+}
+
+.sing_in:hover{
+    background-color: coral;
+}
+
+.table{
+    padding: 20px;
+    background-color: bisque;
+}
+
+.icons{
+    text-align: right;
+}
